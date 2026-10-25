@@ -1,0 +1,133 @@
+{
+  "return_rate_overall": 24.9,
+  "by_cat": {
+    "Formal shoes": 24.2,
+    "Jackets": 20.6,
+    "Jeans": 33.4,
+    "Kurtas": 24.7,
+    "Sneakers": 27.9,
+    "T-shirts": 18.2
+  },
+  "by_pay": {
+    "COD": 29.3,
+    "Prepaid": 21.4
+  },
+  "by_ch": {
+    "App": 23.7,
+    "Marketplace": 29.5,
+    "Website": 23.8
+  },
+  "by_sg": {
+    "False": 29.0,
+    "True": 18.3
+  },
+  "reasons": {
+    "Size/fit issue": 43.7,
+    "Not as pictured": 17.5,
+    "Changed mind": 13.0,
+    "Quality defect": 10.5,
+    "Wardrobing/misuse": 5.8,
+    "Late delivery": 5.3,
+    "Wrong item sent": 4.2
+  },
+  "stage_days": {
+    "pickup_tat_days": 3.2,
+    "warehouse_receipt_days": 3.5,
+    "qc_wait_days": 3.6,
+    "refund_days": 2.5
+  },
+  "avg_tat": 12.8,
+  "tat_band": [
+    {
+      "tat_band": "<=6 days",
+      "n": 31,
+      "csat": 4.23,
+      "tickets": 0.32
+    },
+    {
+      "tat_band": "6-9",
+      "n": 712,
+      "csat": 3.99,
+      "tickets": 0.77
+    },
+    {
+      "tat_band": "9-12",
+      "n": 1975,
+      "csat": 3.61,
+      "tickets": 1.23
+    },
+    {
+      "tat_band": "12+ days",
+      "n": 3265,
+      "csat": 2.88,
+      "tickets": 2.02
+    }
+  ],
+  "avg_touchpoints": 5.0,
+  "cost_lakh": {
+    "value_loss": 28.0,
+    "cost_reverse": 9.3,
+    "cost_handling": 3.9,
+    "cost_support": 4.3,
+    "cost_gateway": 1.0
+  },
+  "cost_total_lakh": 46.5,
+  "cost_per_return": 777,
+  "returns": 5983,
+  "orders": 24000,
+  "gmv_lakh": 423.8,
+  "cost_pct_gmv": 11.0,
+  "grade_mix": {
+    "A": 51.8,
+    "B": 22.6,
+    "C": 13.3,
+    "Reject": 12.2
+  },
+  "cost_by_reason_lakh": {
+    "Size/fit issue": 16.2,
+    "Quality defect": 10.2,
+    "Not as pictured": 6.2,
+    "Wardrobing/misuse": 5.5,
+    "Changed mind": 4.8,
+    "Late delivery": 1.9,
+    "Wrong item sent": 1.7
+  },
+  "repeat_customers_3plus": 3212,
+  "repeat_high_return": 78,
+  "wardrobing_pct": 5.8,
+  "scenarios": {
+    "Low": {
+      "fit_guide": 1.9,
+      "qc_automation": 1.6,
+      "instant_refund": 0.3,
+      "avoided_returns": 239,
+      "total_6m_lakh": 3.8,
+      "annual_lakh": 7.6,
+      "net_y1_lakh": -11.9,
+      "payback_months": 30.8
+    },
+    "Base": {
+      "fit_guide": 3.7,
+      "qc_automation": 2.4,
+      "instant_refund": 0.6,
+      "avoided_returns": 479,
+      "total_6m_lakh": 6.7,
+      "annual_lakh": 13.4,
+      "net_y1_lakh": -6.1,
+      "payback_months": 17.5
+    },
+    "High": {
+      "fit_guide": 5.6,
+      "qc_automation": 3.0,
+      "instant_refund": 0.8,
+      "avoided_returns": 718,
+      "total_6m_lakh": 9.4,
+      "annual_lakh": 18.8,
+      "net_y1_lakh": -0.7,
+      "payback_months": 12.4
+    }
+  },
+  "rate_ng": 29.0,
+  "rate_g": 18.3,
+  "invest_y1_lakh": 19.5
+}
